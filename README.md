@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @JeffersonFAG desarrollador Junior 
-- 👀 Estoy interesado aprender y consumir recursos para cerecer profesionalmente
-- 🌱  Actualmente soy Ingeniero Electronico enfocado en el desarollo frontend
-     trabajo Html, css, Js, react, y es apenas el comienzo
-- 📫 Escribeme estoy atento a tu mensaje ingjeffersonfag@gmail.com
+DESARROLLADOR FRONTEND CON REACTJS | INGENIERO ELECTRÓNICO
+FRONTEND DEVELOPER WITH REACTJS | ELECTRONIC ENGINEER
 
-<!---
-Disciplina
---->
+Ingeniero electrónico apasionado por el desarrollo de aplicaciones webs y móviles.
+Electronic engineer passionate about webs and mobile application development.
+
+Soy desarrollador React hace tres años.
+I've been a React developer for three years
